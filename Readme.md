@@ -2,6 +2,7 @@
 
 * Студент: [Ольга Межецкая](https://up.htmlacademy.ru/adaptive/28/user/2266611).
 * Наставник: [Сергей Остаповец](https://htmlacademy.ru/profile/id288419).
+
 ## О проекте
 
 <img width="869" alt="Devices Mockup." src="/source/cat-preview.png">
@@ -9,6 +10,7 @@
 Браузерная поддержка - Google Chrome, Mozilla Firefox, Safari
 
 [Ссылка на проект](https://heligie.github.io/cat-energy/)
+
 ## Используемые технологии
 
 * HTML5
