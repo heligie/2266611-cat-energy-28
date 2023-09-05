@@ -13,18 +13,19 @@
 
 ## Используемые технологии
 
-* HTML5
-* SCSS
-* JavaScript
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 
-1. Используемая методология: БЭМ
-2. Используемый инструмент автоматизации: Gulp
-3. Pixel Perfect верстка
-4. Адаптивность сетки: мобильная, планшетная и десктопная версии
-5. Сетка макета построена с использованием CSS Flexbox и CSS Grid
-6. Выполнена ретинизация растровой графики
-7. Использован векторный спрайт
-8. Реализован слайдер
+1. Методология: БЭМ
+2. Pixel Perfect верстка
+3. Адаптивность сетки: мобильная, планшетная и десктопная версии
+4. Сетка макета построена с использованием CSS Flexbox и CSS Grid
+5. Выполнена ретинизация растровой графики
+6. Использован векторный спрайт
+7. Реализован слайдер
 
 ---
 
